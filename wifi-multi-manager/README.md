@@ -164,20 +164,3 @@ If you're using external Wi-Fi drivers (e.g., RTL8912 Wi-Fi 7), ensure they are 
 Pull requests welcome.
 
 ---
-
-## ⚖ License
-
-MIT License (or your preferred license)
-
----
-
-If you'd like, I can also generate:
-
-* A clean MIT LICENSE file
-* A .desktop launcher file
-* A deb packaging script
-* A GitHub Actions workflow for building releases
-* A more enterprise-grade README with badges and screenshots
-* A version with screenshots mockup markdown
-
-Just tell me the level of polish you want.
